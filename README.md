@@ -40,7 +40,9 @@ Visit my channel 👉 : https://www.youtube.com/c/vijaycreationsflutter
 
 ## Dependencies
 ```pubspec.yaml
- rive: ^0.10.0
+
+rive: ^0.10.0
+ 
 ```
 
 
